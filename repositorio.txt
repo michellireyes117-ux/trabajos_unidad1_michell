@@ -1,7 +1,9 @@
 echo "# trabajos_unidad1_michell" >> README.md 
 git init 
 git add .
-git commit -m "practica 4 michell" 
+git commit -m "practica 5 michell" 
 git branch -M main 
 git remote add origin https://github.com/michellireyes117-ux/trabajos_unidad1_michell.git
 git push -u origin main
+git config --global user.email "michellireyes117@gmail.com"
+git config --global user.name "michellireyes117-ux"
